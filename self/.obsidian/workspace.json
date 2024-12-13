@@ -156,14 +156,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "e18e59a73a0d41fa",
   "lastOpenFiles": [
     "Resume/Recent.md",
-    "Atlas/media/Pasted image 20241212225540.png",
     "index.md",
+    "Atlas/media/Pasted image 20241212225540.png",
     "Atlas/media",
     "Atlas",
     "Atlas/media/Pasted image 20241212225838.png",

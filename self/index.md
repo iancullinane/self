@@ -20,14 +20,9 @@ This is more than my professional portal, I also talk about the big everything.
 
 ## Things I Have Made
 
-### Drawings
-
-![[Pasted image 20241212225540.png]]
-
-![[Pasted image 20241212225649.png]]
-
-![[Pasted image 20241212225747.png]]
-
-![[Pasted image 20241212225804.png]]
-
-![[Pasted image 20241212225838.png]]
+>[!drawing]- Drawings
+>![[Pasted image 20241212225540.png]]
+>![[Pasted image 20241212225649.png]]
+>![[Pasted image 20241212225747.png]]
+>![[Pasted image 20241212225804.png]]
+>![[Pasted image 20241212225838.png]]
