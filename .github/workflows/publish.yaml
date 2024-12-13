@@ -31,16 +31,17 @@ jobs:
       - name: Build Quartz
         run: |
           cd quartz
-          npx quartz build --directory=../self
+          npx quartz build --directory=../self --output=../public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: quartz/public
+          path: public
  
   deploy:
     needs: build
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
