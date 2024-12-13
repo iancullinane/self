@@ -27,7 +27,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pwd
-          cd self 
+          cd quartz
           pwd
           ls -la
           npm ci
