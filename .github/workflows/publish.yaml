@@ -34,7 +34,7 @@ jobs:
       - name: Build Quartz
         run: |
           pwd
-          npx quartz build --directory=../self
+          npx quartz build 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
