@@ -26,19 +26,14 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: |
-          pwd
           cd quartz
-          pwd
-          ls -la
           npm ci
       - name: Build Quartz
         run: |
-          pwd
-          ls -la
           cd quartz
           npx quartz build --directory=../self
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           path: quartz/public
  
@@ -51,4 +46,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v3
