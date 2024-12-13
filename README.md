@@ -86,3 +86,10 @@ jobs:
 I spent way too long on figuring out the deploy.
 
 Ultimately it was because I had previously deployed `iancullinane.github.io` as a *repository* and thus basically everything was being superseded by that.
+
+
+### I changed a line like...
+
+```
+<h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+```
