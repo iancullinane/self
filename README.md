@@ -80,3 +80,9 @@ jobs:
         uses: actions/deploy-pages@v4
 
 ```
+
+### And a while later...
+
+I spent way too long on figuring out the deploy.
+
+Ultimately it was because I had previously deployed `iancullinane.github.io` as a *repository* and thus basically everything was being superseded by that.

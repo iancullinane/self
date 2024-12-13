@@ -1,5 +1,33 @@
 ---
-title: Home
+title: Hello, Nice to Meet You
 ---
-Experienced software and platform engineer. I have worn a lot of hats from cloud engineering, SRE and DevOps, feature development for a "Top 10" 4X Strategy Mobile Game, release engineering, automation, ChatOps (❤️), tools development, web development and more. I love writing readable an maintainable software. I see software as a craft and bring that attitude to my work. Beyond my technical experience, I am a proven mentor and teacher. I am constantly growing and enjoy helping others do the same. I have a background outside of tech which helps me see the holistic whole of a product or organization. Not just the tech. Looking for any opportunity to challenge me, particularly in organizations looking to move to the cloud and embrace DevOps and SRE practices.
+Experienced software engineer with experience in enterprise security, mobile gaming backends, and art.
 
+This is more than my professional portal, I also talk about the big everything.
+
+## Skills
+* [[Go]]
+* [[AWS]]
+* [[Drawing]]
+* [[Writing]]
+* [[Tools]]
+* [[Typescript]]
+
+## Systems and Features I Have Built
+* [[Binary Patching]]
+* [[ChatOps]]
+* [[Service Mesh]]
+
+## Things I Have Made
+
+### Drawings
+
+![[Pasted image 20241212225540.png]]
+
+![[Pasted image 20241212225649.png]]
+
+![[Pasted image 20241212225747.png]]
+
+![[Pasted image 20241212225804.png]]
+
+![[Pasted image 20241212225838.png]]
