@@ -25,9 +25,16 @@ jobs:
         with:
           node-version: 22
       - name: Install Dependencies
-        run: cd self && npm ci
+        run: |
+          pwd
+          cd self 
+          pwd
+          ls -la
+          npm ci
       - name: Build Quartz
-        run: npx quartz build --directory=../self
+        run: |
+          pwd
+          npx quartz build --directory=../self
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
