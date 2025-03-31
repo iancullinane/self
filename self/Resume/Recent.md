@@ -1,6 +1,19 @@
 ---
 up: "[[index]]"
 ---
+## Skills
+* [[Go]]
+* [[AWS]]
+* [[Drawing]]
+* [[Writing]]
+* [[Tools]]
+* [[Typescript]]
+
+## Systems and Features I Have Built
+* [[Binary Patching]]
+* [[ChatOps]]
+* [[Service Mesh]]
+
 ## Personal Resume
 
 * WB Games Boston 2024
