@@ -1,70 +1,39 @@
 {
   "main": {
-    "id": "684b82f1fd0c6631",
+    "id": "78319da52b492de3",
     "type": "split",
     "children": [
       {
-        "id": "972516ba2c8fc74d",
+        "id": "bbd1766bd4f2bc91",
         "type": "tabs",
         "children": [
           {
-            "id": "e18e59a73a0d41fa",
+            "id": "a7fd0400d1623c18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251127131328.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "bbbc8a83c0a1f277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About Me.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "About Me"
-            }
-          },
-          {
-            "id": "5216c0f22498ce84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/2025-11-27 Notes on Thanks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-27 Notes on Thanks"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251127131328"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f30d7396aa1a5dc1",
+    "id": "496494b3516e341c",
     "type": "split",
     "children": [
       {
-        "id": "e9cbfbef22396194",
+        "id": "818073e95116ef80",
         "type": "tabs",
         "children": [
           {
-            "id": "ab5dfa7790468aee",
+            "id": "d7528dbbc7a3e28e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +46,7 @@
             }
           },
           {
-            "id": "ab4bf1635c034f45",
+            "id": "887abbd08d5748dc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +63,7 @@
             }
           },
           {
-            "id": "40f45058ed518e4d",
+            "id": "75f7cea266f4ebb5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,19 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "8190227704945dfd",
+    "id": "f5914d8a79b27b09",
     "type": "split",
     "children": [
       {
-        "id": "fa9ac89f612bcb8b",
+        "id": "5a925430c728756f",
         "type": "tabs",
         "children": [
           {
-            "id": "dee7fd710b64a905",
+            "id": "e97befd72de62c4b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "self/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,43 +102,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "0fdaed04edb6e951",
+            "id": "e42c819a352bb2b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "self/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "0edc229d10309a4f",
+            "id": "68848b865d2449ff",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "9c7ce5d935a16e7c",
+            "id": "ca94329483c87c2d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "self/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,28 +164,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "5216c0f22498ce84",
+  "active": "a7fd0400d1623c18",
   "lastOpenFiles": [
-    "Atlas/media/Pasted image 20250714201057.png",
-    "Atlas/media/home-note.png",
-    "Atlas/media/Pasted image 20241212225838.png",
-    "Atlas/media/Pasted image 20241212225804.png",
-    "Atlas/media/Pasted image 20241212225747.png",
-    "Atlas/media/Pasted image 20241212225649.png",
-    "Atlas/media/Pasted image 20241212225540.png",
-    "Atlas/media/2025-11-graph-view.png",
-    "Blog/2025-11-27 Notes on Thanks.md",
-    "index.md",
-    "Projects.md",
-    "About Me.md",
-    "Resume/Recent.md",
-    "Atlas/media",
-    "Atlas",
-    "Resume"
+    "Pasted image 20250714201057.png",
+    "self/Blog/2025-11-27 Notes on Thanks.md",
+    "Pasted image 20251127131328.png",
+    "home-note.png",
+    "README.md",
+    "self/index.md",
+    "self/Projects.md",
+    "self/Blog",
+    "self/Resume/Recent.md",
+    "self/Artwork/Artwork.md",
+    "self/Artwork",
+    "self/About Me.md"
   ]
 }
