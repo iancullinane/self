@@ -1,9 +1,3 @@
----
-title: Binary Patching on AWS w/ Cloudfront and Lambda
-created: "2023-01-25"
-draft: false
----
-
 ## Binary Patching
 
 In mobile gaming, we deal with a lot of files. The game client, in addition to the application code, can have dozens to thousands of media, data, and asset files. 
