@@ -1,42 +1,40 @@
 ---
 up: "[[index]]"
 ---
+This is a best effort description starting from literally my first job ever.
+
 ## Skills
 * [[Go]]
 * [[AWS]]
 * [[Drawing]]
 * [[Writing]]
+* [[Customer Service]]
 * [[Tools]]
 * [[Typescript]]
 
-
-
-## Personal Resume
-
-- WB Games Boston 2025
-	- Lead Engineer - Team Voyager
-		- Leader Engineer of platform team
-		- Completely overhauled team processes
-		- Took a team with 0 roadmap to planning two quarters ahead
-		- Revamped
-			- Platform automation
-			- ChatOps platform
-* WB Games Boston 2024
-	* Second Half - Found Team Voyager
-		* Build team from scratch
-		* Inherit massive backlog
-		* Start fixing things
-	* First Half - World To Life
-		* Planned and executed analytics
-		* FTUE Plan
-
-  * Since February 2018
-	  * Lead Software Engineer
-	  * Senior Software Engineer
-	  * Software Engineer
-
-
-
-
-
-![[Pasted image 20250714201057.png]]
+Warner Brothers.
+- Lead Engineer - Team Voyager
+- Lead Engineer - World to Life
+- Core Server Senior Software Engineer
+- Core Server Software Engineer
+- OpApps Software Engineer
+- OpApps Contractor
+- CSI Contractor
+- CSI intern
+Sweet Basil.
+Whole Foods but different.
+Working for Sarah's Dad.
+Whole Foods.
+- Sign Maker
+- Dairy
+- Cashier
+- Bagger
+Not Your Average Joes.
+Not Your Average Joes.
+Zathmary's.
+Trader Joes.
+Moving  a cord of wood.
+Taking care of the lawn.
+Not Your Average Joes (fired).
+Working in the mail room at some Insurance Company.
+Assembling the Sunday Globe at The Red Apple Convenience store.

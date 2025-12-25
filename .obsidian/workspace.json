@@ -11,12 +11,14 @@
             "id": "a7fd0400d1623c18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251127131328.png"
+                "file": "self/Resume/Recent.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251127131328"
+              "icon": "lucide-file",
+              "title": "Recent"
             }
           }
         ]
@@ -169,11 +171,11 @@
   },
   "active": "a7fd0400d1623c18",
   "lastOpenFiles": [
+    "README.md",
     "Pasted image 20250714201057.png",
     "self/Blog/2025-11-27 Notes on Thanks.md",
     "Pasted image 20251127131328.png",
     "home-note.png",
-    "README.md",
     "self/index.md",
     "self/Projects.md",
     "self/Blog",
