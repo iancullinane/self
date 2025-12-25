@@ -1,3 +1,8 @@
+---
+draft: "true"
+---
+
+
 How most of us think of and perceive time is all wrong. I would even argue that as individuals (Or groups of individuals, or types of individuals...) we experience time differently. We do however experience _now_ in equal capacity. Our most accessible piece of data has become the 'second.' This is also the least useful (and ironically the only real) unit of time. 
 
 Most people are unaware that this kind of minute measurement of time, is relatively recent. Below I have tried to list _kinds_ of time from modern to ancient and I encourage you to stop and analyze the recurrent theme as we move _through_ time as a function.

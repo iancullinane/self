@@ -1,3 +1,8 @@
+---
+draft: "true"
+---
+
+
 ![[royal-game-of-ur.png]]
 
 I consider myself what we call today a "gamer."
