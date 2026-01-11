@@ -12,7 +12,7 @@ The following diagram expresses the sequence of events to detect and generate a 
 
 The basic flow of the above files, is we utilize the s3 distribution event, which will fire a [Lambda@Edge event](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-event-structure.html#example-origin-request) for various actions and requests to the distribution. In our case, we want to trigger a response when a file which has not been cached has been requested. This lambda will add an SQS message to a queue with the necessary information to complete the work. 
 
-_image pending_
+![[binary-patching-flow-diagram.png]]
 
 One of the main benefits of this design, is the the end user never sees it. Should the patch not exist, nothing will happen and the client can fall back on default behavior. Additionally, since the new patch is only made on request, the process is entirely event driven. It is extremely rare for a file to "go out into the wild" without a patch, because QA generates them through their normal workflow. However should a user request a file that is not yet patched, that is okay because we will make it now and the next user doesn't need to worry.
 
@@ -64,4 +64,4 @@ func CreatePatch(oldfile, newfile []byte) ([]byte, error) {
 }
 ```
 
-**Note:** `bsdiff` will use memory at an exponential rate where exponent value is the file size. So for larger files you need to provide appropriate memory. 
+**Note:** `bsdiff` will use memory at an exponential rate where exponent value is the file size. So for larger files you need to provide appropriate memory.
